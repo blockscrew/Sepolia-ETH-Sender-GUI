@@ -30,7 +30,7 @@ Sebelum memulai, pastikan Anda memiliki:
 
 1.  Clone repositori ini:
     ```bash
-    git clone [https://github.com/blockscrew/Sepolia-ETH-Sender-GUI.git](https://github.com/blockscrew/Sepolia-ETH-Sender-GUI.git)
+    git clone https://github.com/blockscrew/Sepolia-ETH-Sender-GUI.git
     cd sepolia-eth-sender-gui
     ```
 
