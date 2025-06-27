@@ -5,8 +5,6 @@
 
 Aplikasi GUI sederhana yang dibuat dengan Python dan Tkinter untuk mengirim ETH di jaringan **Sepolia Testnet** secara massal. Ditenagai oleh Alchemy dan Web3.py, aplikasi ini memudahkan developer dan tester untuk mendistribusikan ETH ke banyak alamat sekaligus.
 
-![image](https://github.com/user-attachments/assets/b0f1a587-418a-40a8-b611-002d4151a668)
-
 
 ---
 
