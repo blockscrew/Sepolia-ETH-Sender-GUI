@@ -52,7 +52,7 @@ Aplikasi ini memerlukan API Key dari [Alchemy](https://alchemy.com) untuk terhub
 4.  Buka file `main.py` dan ganti `YOUR_API_KEY` dengan kunci yang baru Anda salin.
     ```python
     # Ganti bagian ini di dalam file main.py
-    ALCHEMY_URL = "[https://eth-sepolia.g.alchemy.com/v2/YOUR_API_KEY](https://eth-sepolia.g.alchemy.com/v2/YOUR_API_KEY)"
+    ALCHEMY_URL = "https://eth-sepolia.g.alchemy.com/v2/YOUR_API_KEY"
     ```
 
 ---
